@@ -4,7 +4,7 @@
 
 ### Full Stack Developer | AI Enthusiast | Open Source Contributor
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-boubli.vercel.app-00ff88?style=for-the-badge&logo=vercel)](https://boubli.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-boubli.vercel.app-00ff88?style=for-the-badge&logo=vercel)](https://boubli.tech)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-youssefboubli-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/youssefboubli)
 [![Hugging Face](https://img.shields.io/badge/🤗_Hugging_Face-TRADMSS-FFD21E?style=for-the-badge)](https://huggingface.co/TRADMSS)
 
