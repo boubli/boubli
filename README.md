@@ -62,8 +62,8 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=boubli&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=boubli&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="170"/>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=boubli&show_icons=true&theme=radical&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=boubli&layout=compact&theme=radical&hide_border=true)
 
 </div>
 
