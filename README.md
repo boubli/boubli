@@ -43,10 +43,10 @@
 
 | Project | Description | Tech |
 |---------|-------------|------|
+| [**AMUD**](https://github.com/boubli/AMUD-Dashboard) | Ultra-lightweight active homelab dashboard | Rust, SQLite, Tokio, Vanilla JS/CSS |
 | [**HIBA**](https://github.com/boubli/HIBA) | 🌸 Open source therapeutic AI companion | Python, Qwen2.5-7B, Gradio |
 | [**TruthLens**](https://truth-lens-plum.vercel.app) | AI-powered nutrition assistant | Next.js, TypeScript, AI |
 | [**Tamount**](https://boubli.github.io/Tamount/) | Moroccan restaurant website | HTML, CSS, JavaScript |
-| [**Main-Website**](https://github.com/boubli/Main-Website) | My personal portfolio | Next.js, React, Tailwind |
 
 ---
 
