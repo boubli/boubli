@@ -15,10 +15,10 @@
 ## 🚀 About Me
 
 - 🔭 Full Stack Developer with **7+ years** of experience
-- 🌍 Based in **Águeda, Portugal**
+- 🌍 Based in **Viseu, Portugal**
 - 💻 I build web apps, AI tools, and automation systems
 - 🤝 Active open source contributor
-- 🎓 B.S. in Business Administration & Computer Science background
+- 🎓 B.S. in Business Administration & B.S in Computer Science
 
 ---
 
