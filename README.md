@@ -72,7 +72,7 @@
 ## 📫 Get In Touch
 
 - 📧 Email: bbb.vloger@gmail.com
-- 🌐 Portfolio: [boubli.vercel.app](https://boubli.vercel.app)
+- 🌐 Portfolio: [boubli.tech](https://boubli.tech)
 - 💼 LinkedIn: [/in/youssefboubli](https://linkedin.com/in/youssefboubli)
 
 ---
